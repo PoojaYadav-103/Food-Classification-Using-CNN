@@ -1,4 +1,4 @@
-# 🍽️ Food Classification using EfficientNetB0
+# 🍽️ Food Classification using CNN
 
 A Computer Vision project that classifies food images into **101 categories** using **Transfer Learning with EfficientNetB0**. The trained model is converted into **TensorFlow Lite** format and deployed as an Android application for efficient on-device inference.
 
