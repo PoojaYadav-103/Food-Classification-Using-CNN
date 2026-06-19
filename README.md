@@ -95,7 +95,7 @@ FOOD_CLASSIFICATION_USING_CNN/
 ## 🚀 Getting Started
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PoojaYadav-103/Food-Classification-Using-CNN.git
 
 pip install -r requirements.txt
 ```
